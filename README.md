@@ -31,9 +31,9 @@ Users have the ability to Query Cards they've been given access to.
 
 (Highlights specific interests for Grants, etc)
 
-- Challenge #1: Use Query Permits to grant user access to business cards, in addition to Viewing Keys (Reward: 10k SCRT vested over 1 year)
-- Challenge #2: Turn Business Card structs into SNIP-721s (Reward: 1k SCRT)
-- Challenge #3: IBC Integration that transfers business cards to other chains in the cosmoos(Reward: 5k SCRT vested over 1 year)
+- Challenge #1: Use Query Permits to grant user access to business cards, in addition to Viewing Keys
+- Challenge #2: Turn Business Card structs into SNIP-721s
+- Challenge #3: IBC Integration that transfers business cards to other chains in the cosmos
 
 #### Documentation
 
